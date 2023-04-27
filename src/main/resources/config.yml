@@ -1,0 +1,30 @@
+#Welcome to the Config for Minecraft DC Plugin. Here you can customise everything about the plugin.
+
+## Do support the plugin by leaving a review on SpigotMC. It will help me a lot. Thank you!
+
+## Also If possible, DONATE to the developer on https://donate.hellofaizan.me  🔥
+
+
+## Custom Server Start Message
+ServerStartMessage: '🟢 Server Started Successfully!'
+
+## Custom Player Join Message
+PlayerJoinMessage: 'joined the server!'
+
+## Custom Player Leave Message
+PlayerLeaveMessage: 'left the server!'
+
+## Server On Off Discord Channel Webhook URL
+ServerOnOffWebhookURL: 'https://discord.com/api/webhooks/1234567890/1234567890'
+
+## Server Player Join Leave Discord Channel Webhook URL
+ServerJoinLeaveWebhookURL: 'https://discord.com/api/webhooks/1234567890/1234567890'
+
+## Server Player Chat Discord Channel Webhook URL
+ServerChatWebhookURL: 'https://discord.com/api/webhooks/1234567890/1234567890'
+
+## Server Player Death Discord Channel Webhook URL
+PlayerDeathWebhookURL: 'https://discord.com/api/webhooks/1234567890/1234567890'
+
+## Set Webhook Name and Avatar URL as players Minecraft Name and Skin
+SetWebhookNameAsPlayerName: true

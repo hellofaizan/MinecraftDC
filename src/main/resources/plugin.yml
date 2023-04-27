@@ -1,0 +1,8 @@
+name: MinecraftDC
+version: '${project.version}'
+main: me.hellofaizan.minecraftdc.MinecraftDC
+api-version: 1.19
+load: STARTUP
+authors: [HelloFaizan]
+description: A plugin that links your Minecraft Server with the Discord Channel.
+website: https://hellofaizan.me
