@@ -1,3 +1,5 @@
+# Minecraft DC
+
 ### The most powerful, configurable, open-source Discord bridge plugin out there.
 Supports Minecraft Versions from 1.19 to 1.19.4
 Drop a star on Github Repo
